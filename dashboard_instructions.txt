@@ -1,0 +1,13 @@
+*------------------------Sample Dashboard------------------------*
+
+Pre-requisites:
+	Conda installed
+	
+Steps to run dashboard on new machine:
+	1) Open anaconda prompt and type following commands:
+		a) cd </path/to>Sample Dashboard 
+		b) conda env create -f environment.yml
+		c) conda activate SAMPLE
+		d) python dashboard.py
+	3) Navigate to browser location
+	
